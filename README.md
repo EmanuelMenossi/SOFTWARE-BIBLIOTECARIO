@@ -29,5 +29,11 @@ e alteração de informações, além de poder realizar a pesquisa dos cadastros
 - [X] Devolução de exemplar
 - [X] Baixa de exemplar
 
+![HOME](https://github.com/user-attachments/assets/a0439370-d1f1-4323-9c0d-160be66fc915)
+![EMPRESTIMO](https://github.com/user-attachments/assets/e4eb71e3-4169-41a7-8e64-d46187fc9333)
+![HELP MENU](https://github.com/user-attachments/assets/da3ef6f8-38ad-4a2f-a484-db780b15f6a0)
+
+
+
 By:
 Emanuel - Jessica - Kezia - João
